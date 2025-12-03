@@ -14,8 +14,8 @@ This panel is used to:
 ## Tech Stack
 - React 18
 - React Router
-- Redux Toolkit / Context API
-- WYSIWYG Editor (Quill or similar)
+- Context API
+- WYSIWYG Editor (Quill)
 - JWT Authentication
 
 ---
